@@ -9,3 +9,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.d3data.de)
+
+[website]: https://d3data.de
